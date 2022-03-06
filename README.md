@@ -27,6 +27,6 @@ https://matplotlib.org/3.1.1/gallery/style_sheets/fivethirtyeight.html
 
 <p align="center">
   <img src="Figs/relu.png" width="300" title="hover text">
-  <img src="Figs/sigmoid.png" width="315" title="hover text">
+  <img src="Figs/sigmoid.png" width="310" title="hover text">
  <img src="Figs/leaky_relu_plot.jpg" width="300" title="hover text">
 </p>
