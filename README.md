@@ -30,3 +30,10 @@ https://matplotlib.org/3.1.1/gallery/style_sheets/fivethirtyeight.html
   <img src="Figs/sigmoid.png" width="310" title="hover text">
  <img src="Figs/leaky_relu_plot.jpg" width="300" title="hover text">
 </p>
+
+## Bar Charts
+<p align="center">
+  <img src="Figs/ch12.png"  title="hover text">
+  <img src="Figs/hist3.png"  title="hover text">
+ <img src="Figs/AP2.png" width="500" title="hover text">
+</p>
