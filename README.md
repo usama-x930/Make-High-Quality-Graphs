@@ -39,3 +39,18 @@ https://matplotlib.org/3.1.1/gallery/style_sheets/fivethirtyeight.html
  <img src="Figs/AP2.png" width="320" title="hover text">
  <img src="Figs/Picture1.png" width="320" title="hover text">
 </p>
+
+## Precision, Recall, Accuracy, Loss, F1-Score
+
+Run
+``` 
+python plots.py
+```
+
+<p align="center">
+  <img src="images/accuracy.png"  width="300" title="hover text">
+  <img src="images/loss.png"  width="300" title="hover text">
+ <img src="images/precision.png"  width="300" title="hover text">
+ <img src="images/recall.png" width="300" title="hover text">
+ 
+</p>
